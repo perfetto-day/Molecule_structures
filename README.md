@@ -1,3 +1,3 @@
 # Molecule_structures
 
-Main file - Ex6.ipynb
+Main file - full_molecule_sim.ipynb
